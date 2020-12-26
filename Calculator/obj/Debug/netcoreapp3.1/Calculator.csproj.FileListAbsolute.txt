@@ -1,0 +1,15 @@
+C:\Users\Yamete\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\Yamete\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\Yamete\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\Yamete\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\Yamete\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Yamete\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Yamete\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\Yamete\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+C:\Users\Yamete\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\Yamete\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\Yamete\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Yamete\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\Yamete\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\Yamete\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+C:\Users\Yamete\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.Calculator.resources
